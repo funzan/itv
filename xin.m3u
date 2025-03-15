@@ -1,0 +1,1143 @@
+{\rtf1\ansi\ansicpg936\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww45580\viewh22820\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+#EXTM3U\
+#EXTM3U x-tvg-url="https://epg.doube.eu.org/epg.xml"\
+#EXTINF:-1 tvg-id="\uc0\u32431 \u20139 4K" tvg-name="\u32431 \u20139 4K" tvg-logo="https://json.doube.eu.org/logo/\u32431 \u20139 4K.png" group-title="4K\u39057 \u36947 ",\u32431 \u20139 4K\
+http://192.168.8.1:50101/1000000004000011651/FifastbLive/index.m3u8$20M2160_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="4K\uc0\u39057 \u36947 ",CCTV16 \u22885 \u26519 \u21305 \u20811 4K\
+http://192.168.8.1:50101/5000000008000023254/FifastbLive/index.m3u8$12M2160HEVC_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27426 \u31505 \u21095 \u22330 4K" tvg-name="\u27426 \u31505 \u21095 \u22330 4K" tvg-logo="https://json.doube.eu.org/logo/\u27426 \u31505 \u21095 \u22330 4K.png" group-title="4K\u39057 \u36947 ",SiTV\u27426 \u31505 \u21095 \u22330 4K\
+http://192.168.8.1:50101/5000000007000010001/FifastbLive/index.m3u8$12M2160HEVC_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21326 \u25968 4K" tvg-name="\u21326 \u25968 4K" tvg-logo="https://json.doube.eu.org/logo/\u21326 \u25968 4K.png" group-title="4K\u39057 \u36947 ",\u21326 \u25968 4K\
+http://192.168.8.1:50101/6000000003000004748/FifastbLive/index.m3u8$16M2160_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u21326 \u25968 4K" tvg-name="\u21326 \u25968 4K" tvg-logo="https://json.doube.eu.org/logo/\u21326 \u25968 4K.png" group-title="4K\u39057 \u36947 ",\u21326 \u25968 4K\
+http://192.168.8.1:50101/2000000004000000014/FifastbLive/index.m3u8$15M2160_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV1 \u32508 \u21512 \
+http://192.168.8.1:50101/6000000001000029752/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV1 \u32508 \u21512 \
+http://192.168.8.1:50101/1000000001000018602/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV1 \u32508 \u21512 \
+http://192.168.8.1:50101/5000000004000002226/FifastbLive/index.m3u8$7.5M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV1 \u32508 \u21512 \
+http://192.168.8.1:50101/1000000005000265001/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV1 \u32508 \u21512 \
+http://192.168.8.1:50101/5000000010000030810/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV1 \u32508 \u21512 \
+http://192.168.8.1:50101/1000000001000021973/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV2 \u36130 \u32463 \
+http://192.168.8.1:50101/6000000001000014161/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV2 \u36130 \u32463 \
+http://192.168.8.1:50101/1000000001000023315/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV2 \u36130 \u32463 \
+http://192.168.8.1:50101/5000000011000031101/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV2 \u36130 \u32463 \
+http://192.168.8.1:50101/1000000005000265002/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV2 \u36130 \u32463 \
+http://192.168.8.1:50101/1000000001000012442/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV3 \u32508 \u33402 \
+http://192.168.8.1:50101/6000000001000022313/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV3 \u32508 \u33402 \
+http://192.168.8.1:50101/1000000001000013682/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV3 \u32508 \u33402 \
+http://192.168.8.1:50101/5000000004000008883/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV3 \u32508 \u33402 \
+http://192.168.8.1:50101/1000000005000265003/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV3 \u32508 \u33402 \
+http://192.168.8.1:50101/5000000002000020548/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV3 \u32508 \u33402 \
+http://192.168.8.1:50101/1000000001000011218/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV4 \u20013 \u25991 \u22269 \u38469 \
+http://192.168.8.1:50101/5000000011000031102/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV4 \u20013 \u25991 \u22269 \u38469 \
+http://192.168.8.1:50101/1000000005000265004/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV4 \u20013 \u25991 \u22269 \u38469 \
+http://192.168.8.1:50101/1000000002000031664/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV4 \u20013 \u25991 \u22269 \u38469 \
+http://192.168.8.1:50101/5000000005000030093/FifastbLive/index.m3u8$4M720_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5 \u20307 \u32946 \
+http://192.168.8.1:50101/1000000005000025222/FifastbLive/index.m3u8$12M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5 \u20307 \u32946 \
+http://192.168.8.1:50101/6000000001000016431/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5 \u20307 \u32946 \
+http://192.168.8.1:50101/1000000003000030177/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5 \u20307 \u32946 \
+http://192.168.8.1:50101/5000000004000008885/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5 \u20307 \u32946 \
+http://192.168.8.1:50101/1000000005000265005/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5 \u20307 \u32946 \
+http://192.168.8.1:50101/5000000010000016619/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5 \u20307 \u32946 \
+http://192.168.8.1:50101/1000000001000004794/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5+ \u20307 \u32946 \u36187 \u20107 \
+http://192.168.8.1:50101/6000000001000015875/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5+ \u20307 \u32946 \u36187 \u20107 \
+http://192.168.8.1:50101/1000000001000018504/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5+ \u20307 \u32946 \u36187 \u20107 \
+http://192.168.8.1:50101/5000000011000031127/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5+ \u20307 \u32946 \u36187 \u20107 \
+http://192.168.8.1:50101/1000000005000265016/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV5+ \u20307 \u32946 \u36187 \u20107 \
+http://192.168.8.1:50101/1000000001000020505/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV6 \u30005 \u24433 \
+http://192.168.8.1:50101/6000000001000004574/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV6 \u30005 \u24433 \
+http://192.168.8.1:50101/1000000001000001737/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV6 \u30005 \u24433 \
+http://192.168.8.1:50101/5000000004000008886/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV6 \u30005 \u24433 \
+http://192.168.8.1:50101/1000000005000265006/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV6 \u30005 \u24433 \
+http://192.168.8.1:50101/5000000010000018433/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV6 \u30005 \u24433 \
+http://192.168.8.1:50101/1000000001000016466/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV7 \u22269 \u38450 \u20891 \u20107 \
+http://192.168.8.1:50101/6000000001000009055/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV7 \u22269 \u38450 \u20891 \u20107 \
+http://192.168.8.1:50101/1000000001000024341/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV7 \u22269 \u38450 \u20891 \u20107 \
+http://192.168.8.1:50101/5000000011000031104/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV7 \u22269 \u38450 \u20891 \u20107 \
+http://192.168.8.1:50101/1000000005000265007/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV7 \u22269 \u38450 \u20891 \u20107 \
+http://192.168.8.1:50101/1000000001000017218/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV7 \u22269 \u38450 \u20891 \u20107 \
+http://192.168.8.1:50101/5000000005000026715/FifastbLive/index.m3u8$4M720_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV8 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/6000000001000001070/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV8 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/1000000001000031433/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV8 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/5000000004000008888/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV8 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/1000000005000265008/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV8 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/5000000010000018377/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV8 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/1000000001000003736/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV9 \u35760 \u24405 \
+http://192.168.8.1:50101/6000000001000032162/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV9 \u35760 \u24405 \
+http://192.168.8.1:50101/1000000001000014583/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV9 \u35760 \u24405 \
+http://192.168.8.1:50101/1000000005000265009/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV9 \u35760 \u24405 \
+http://192.168.8.1:50101/5000000010000018384/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV9 \u35760 \u24405 \
+http://192.168.8.1:50101/1000000001000028286/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV10 \u31185 \u25945 \
+http://192.168.8.1:50101/5000000004000012827/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV10 \u31185 \u25945 \
+http://192.168.8.1:50101/6000000001000031506/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV10 \u31185 \u25945 \
+http://192.168.8.1:50101/1000000001000023734/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV10 \u31185 \u25945 \
+http://192.168.8.1:50101/1000000005000265010/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV10 \u31185 \u25945 \
+http://192.168.8.1:50101/5000000010000016738/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV10 \u31185 \u25945 \
+http://192.168.8.1:50101/1000000001000026367/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV11 \u25103 \u26354 \
+http://192.168.8.1:50101/5000000011000031106/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV11 \u25103 \u26354 \
+http://192.168.8.1:50101/1000000005000265011/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV11 \u25103 \u26354 \
+http://192.168.8.1:50101/5000000006000040011/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV11 \u25103 \u26354 \
+http://192.168.8.1:50101/1000000002000019789/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV12 \u31038 \u20250 \u19982 \u27861 \
+http://192.168.8.1:50101/6000000001000022586/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV12 \u31038 \u20250 \u19982 \u27861 \
+http://192.168.8.1:50101/1000000001000032494/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV12 \u31038 \u20250 \u19982 \u27861 \
+http://192.168.8.1:50101/5000000011000031107/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV12 \u31038 \u20250 \u19982 \u27861 \
+http://192.168.8.1:50101/1000000005000265012/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV12 \u31038 \u20250 \u19982 \u27861 \
+http://192.168.8.1:50101/1000000001000001640/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV12 \u31038 \u20250 \u19982 \u27861 \
+http://192.168.8.1:50101/5000000006000040012/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV13 \u26032 \u38395 \
+http://192.168.8.1:50101/5000000011000031108/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV13 \u26032 \u38395 \
+http://192.168.8.1:50101/5000000005000001827/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV13 \u26032 \u38395 \
+http://192.168.8.1:50101/1000000002000021303/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV14 \u23569 \u20799 \
+http://192.168.8.1:50101/5000000004000006673/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV14 \u23569 \u20799 \
+http://192.168.8.1:50101/6000000001000013647/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV14 \u23569 \u20799 \
+http://192.168.8.1:50101/1000000001000008170/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV14 \u23569 \u20799 \
+http://192.168.8.1:50101/1000000005000265013/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV14 \u23569 \u20799 \
+http://192.168.8.1:50101/5000000010000023358/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV14 \u23569 \u20799 \
+http://192.168.8.1:50101/1000000001000021349/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV15 \u38899 \u20048 \
+http://192.168.8.1:50101/5000000011000031109/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV15 \u38899 \u20048 \
+http://192.168.8.1:50101/1000000005000265014/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV15 \u38899 \u20048 \
+http://192.168.8.1:50101/1000000002000008163/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV16 \u22885 \u26519 \u21305 \u20811 \
+http://192.168.8.1:50101/1000000006000233002/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV16 \u22885 \u26519 \u21305 \u20811 \
+http://192.168.8.1:50101/5000000008000023253/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV16 \u22885 \u26519 \u21305 \u20811 \
+http://192.168.8.1:50101/1000000006000233001/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV17 \u20892 \u19994 \u20892 \u26449 \
+http://192.168.8.1:50101/1000000006000268004/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV17 \u20892 \u19994 \u20892 \u26449 \
+http://192.168.8.1:50101/1000000005000265015/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="\uc0\u22830 \u35270 \u39057 \u36947 ",CCTV17 \u20892 \u19994 \u20892 \u26449 \
+http://192.168.8.1:50101/1000000005000056836/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23433 \u24509 \u21355 \u35270 " tvg-name="\u23433 \u24509 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23433 \u24509 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23433 \u24509 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000009954/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u23433 \u24509 \u21355 \u35270 " tvg-name="\u23433 \u24509 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23433 \u24509 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23433 \u24509 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000030159/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23433 \u24509 \u21355 \u35270 " tvg-name="\u23433 \u24509 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23433 \u24509 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23433 \u24509 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000023002/FifastbLive/index.m3u8$7.5M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u23433 \u24509 \u21355 \u35270 " tvg-name="\u23433 \u24509 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23433 \u24509 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23433 \u24509 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265025/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23433 \u24509 \u21355 \u35270 " tvg-name="\u23433 \u24509 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23433 \u24509 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23433 \u24509 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000001000027288/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u23433 \u24509 \u21355 \u35270 " tvg-name="\u23433 \u24509 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23433 \u24509 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23433 \u24509 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000020780/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u31185 \u25945 " tvg-name="\u32426 \u23454 \u31185 \u25945 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u31185 \u25945 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u32426 \u23454 \u31185 \u25945 \
+http://192.168.8.1:50101/1000000001000001910/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u31185 \u25945 " tvg-name="\u32426 \u23454 \u31185 \u25945 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u31185 \u25945 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u32426 \u23454 \u31185 \u25945 \
+http://192.168.8.1:50101/5000000011000031204/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u31185 \u25945 " tvg-name="\u32426 \u23454 \u31185 \u25945 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u31185 \u25945 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u32426 \u23454 \u31185 \u25945 \
+http://192.168.8.1:50101/2000000002000000065/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u31185 \u25945 " tvg-name="\u32426 \u23454 \u31185 \u25945 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u31185 \u25945 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u32426 \u23454 \u31185 \u25945 \
+http://192.168.8.1:50101/1000000005000265020/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u31185 \u25945 " tvg-name="\u32426 \u23454 \u31185 \u25945 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u31185 \u25945 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u32426 \u23454 \u31185 \u25945 \
+http://192.168.8.1:50101/2000000003000000026/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u31185 \u25945 " tvg-name="\u32426 \u23454 \u31185 \u25945 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u31185 \u25945 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u32426 \u23454 \u31185 \u25945 \
+http://192.168.8.1:50101/1000000001000028380/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21345 \u37239 \u23569 \u20799 " tvg-name="\u21345 \u37239 \u23569 \u20799 " tvg-logo="https://json.doube.eu.org/logo/\u21345 \u37239 \u23569 \u20799 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21345 \u37239 \u23569 \u20799 \
+http://192.168.8.1:50101/7851974109718180595/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21345 \u37239 \u23569 \u20799 " tvg-name="\u21345 \u37239 \u23569 \u20799 " tvg-logo="https://json.doube.eu.org/logo/\u21345 \u37239 \u23569 \u20799 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21345 \u37239 \u23569 \u20799 \
+http://192.168.8.1:50101/1000000002000002413/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21345 \u37239 \u23569 \u20799 " tvg-name="\u21345 \u37239 \u23569 \u20799 " tvg-logo="https://json.doube.eu.org/logo/\u21345 \u37239 \u23569 \u20799 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21345 \u37239 \u23569 \u20799 \
+http://192.168.8.1:50101/6000000003000002709/FifastbLive/index.m3u8$1.8M576_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u21271 \u20140 \u21355 \u35270 " tvg-name="\u21271 \u20140 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21271 \u20140 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000020451/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u21271 \u20140 \u21355 \u35270 " tvg-name="\u21271 \u20140 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21271 \u20140 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000021288/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21271 \u20140 \u21355 \u35270 " tvg-name="\u21271 \u20140 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21271 \u20140 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000031556/FifastbLive/index.m3u8$7.5M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21271 \u20140 \u21355 \u35270 " tvg-name="\u21271 \u20140 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21271 \u20140 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265027/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21271 \u20140 \u21355 \u35270 " tvg-name="\u21271 \u20140 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21271 \u20140 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000011502/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21271 \u20140 \u21355 \u35270 " tvg-name="\u21271 \u20140 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21271 \u20140 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21271 \u20140 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000017156/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u20853 \u22242 \u21355 \u35270 " tvg-name="\u20853 \u22242 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u20853 \u22242 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20853 \u22242 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000266005/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u20853 \u22242 \u21355 \u35270 " tvg-name="\u20853 \u22242 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u20853 \u22242 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20853 \u22242 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040020/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u21335 \u21355 \u35270 " tvg-name="\u19996 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u31119 \u24314 \u19996 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000010584/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u21335 \u21355 \u35270 " tvg-name="\u19996 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u31119 \u24314 \u19996 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265033/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u21335 \u21355 \u35270 " tvg-name="\u19996 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u31119 \u24314 \u19996 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000001000005829/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u21335 \u21355 \u35270 " tvg-name="\u19996 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u31119 \u24314 \u19996 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000009263/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u29976 \u32899 \u21355 \u35270 " tvg-name="\u29976 \u32899 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u29976 \u32899 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u29976 \u32899 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000011000031121/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u29976 \u32899 \u21355 \u35270 " tvg-name="\u29976 \u32899 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u29976 \u32899 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u29976 \u32899 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000017827/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u29976 \u32899 \u21355 \u35270 " tvg-name="\u29976 \u32899 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u29976 \u32899 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u29976 \u32899 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040021/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u22823 \u28286 \u21306 \u21355 \u35270 " tvg-name="\u22823 \u28286 \u21306 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22823 \u28286 \u21306 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u22823 \u28286 \u21306 \u21355 \u35270 \
+http://192.168.8.1:50101/2000000003000000045/FifastbLive/index.m3u8$4M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u22823 \u28286 \u21306 \u21355 \u35270 " tvg-name="\u22823 \u28286 \u21306 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22823 \u28286 \u21306 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u22823 \u28286 \u21306 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000011619/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u22025 \u20339 \u21345 \u36890 " tvg-name="\u22025 \u20339 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u22025 \u20339 \u21345 \u36890 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u22025 \u20339 \u21345 \u36890 \
+http://192.168.8.1:50101/1000000002000025964/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u22025 \u20339 \u21345 \u36890 " tvg-name="\u22025 \u20339 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u22025 \u20339 \u21345 \u36890 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u22025 \u20339 \u21345 \u36890 \
+http://192.168.8.1:50101/6000000003000025508/FifastbLive/index.m3u8$1.8M576_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u19996 \u21355 \u35270 " tvg-name="\u24191 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000014694/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u19996 \u21355 \u35270 " tvg-name="\u24191 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000031076/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u19996 \u21355 \u35270 " tvg-name="\u24191 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000014176/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u19996 \u21355 \u35270 " tvg-name="\u24191 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265034/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u19996 \u21355 \u35270 " tvg-name="\u24191 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000030417/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u19996 \u21355 \u35270 " tvg-name="\u24191 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000028357/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u19996 \u29664 \u27743 " tvg-name="\u24191 \u19996 \u29664 \u27743 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u19996 \u29664 \u27743 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u29664 \u27743 \
+http://192.168.8.1:50101/2000000003000000033/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u24191 \u19996 \u29664 \u27743 " tvg-name="\u24191 \u19996 \u29664 \u27743 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u19996 \u29664 \u27743 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u19996 \u29664 \u27743 \
+http://192.168.8.1:50101/1000000004000011655/FifastbLive/index.m3u8$2.5M720_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u35199 \u21355 \u35270 " tvg-name="\u24191 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000011000031118/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u35199 \u21355 \u35270 " tvg-name="\u24191 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000019837/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u24191 \u35199 \u21355 \u35270 " tvg-name="\u24191 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24191 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u24191 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040014/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u36149 \u24030 \u21355 \u35270 " tvg-name="\u36149 \u24030 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u36149 \u24030 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u36149 \u24030 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000025843/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u36149 \u24030 \u21355 \u35270 " tvg-name="\u36149 \u24030 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u36149 \u24030 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u36149 \u24030 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000003169/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28023 \u21335 \u21355 \u35270 " tvg-name="\u28023 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28023 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28023 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000006211/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28023 \u21335 \u21355 \u35270 " tvg-name="\u28023 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28023 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28023 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000023773/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27827 \u21271 \u21355 \u35270 " tvg-name="\u27827 \u21271 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27827 \u21271 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27827 \u21271 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040016/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27827 \u21271 \u21355 \u35270 " tvg-name="\u27827 \u21271 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27827 \u21271 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27827 \u21271 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000017118/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27827 \u21335 \u21355 \u35270 " tvg-name="\u27827 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27827 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27827 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000011000031119/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27827 \u21335 \u21355 \u35270 " tvg-name="\u27827 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27827 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27827 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000027731/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27827 \u21335 \u21355 \u35270 " tvg-name="\u27827 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27827 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27827 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000005000017925/FifastbLive/index.m3u8$4M720_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-name="\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u40857 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u40857 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000016510/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-name="\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u40857 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u40857 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000001925/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-name="\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u40857 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u40857 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000025203/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-name="\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u40857 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u40857 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265029/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-name="\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u40857 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u40857 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000031107/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-name="\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u40857 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u40857 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000009082/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21271 \u21355 \u35270 " tvg-name="\u28246 \u21271 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21271 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21271 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000015436/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21271 \u21355 \u35270 " tvg-name="\u28246 \u21271 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21271 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21271 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000024621/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21271 \u21355 \u35270 " tvg-name="\u28246 \u21271 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21271 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21271 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000014954/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21271 \u21355 \u35270 " tvg-name="\u28246 \u21271 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21271 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21271 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265023/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21271 \u21355 \u35270 " tvg-name="\u28246 \u21271 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21271 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21271 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000022140/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21271 \u21355 \u35270 " tvg-name="\u28246 \u21271 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21271 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21271 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000010355/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u33590 \u39057 \u36947 " tvg-name="\u33590 \u39057 \u36947 " tvg-logo="https://json.doube.eu.org/logo/\u33590 \u39057 \u36947 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u33590 \u39057 \u36947 \
+http://192.168.8.1:50101/5000000011000031209/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u33590 \u39057 \u36947 " tvg-name="\u33590 \u39057 \u36947 " tvg-logo="https://json.doube.eu.org/logo/\u33590 \u39057 \u36947 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u33590 \u39057 \u36947 \
+http://192.168.8.1:50101/2000000002000000070/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u32426 \u23454 " tvg-name="\u37329 \u40560 \u32426 \u23454 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u32426 \u23454 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u32426 \u23454 \
+http://192.168.8.1:50101/5000000011000031203/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u32426 \u23454 " tvg-name="\u37329 \u40560 \u32426 \u23454 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u32426 \u23454 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u32426 \u23454 \
+http://192.168.8.1:50101/1000000002000011724/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u21345 \u36890 " tvg-name="\u37329 \u40560 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u21345 \u36890 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u21345 \u36890 \
+http://192.168.8.1:50101/1000000002000016601/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u21345 \u36890 " tvg-name="\u37329 \u40560 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u21345 \u36890 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u21345 \u36890 \
+http://192.168.8.1:50101/5000000006000040024/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u21345 \u36890 " tvg-name="\u37329 \u40560 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u21345 \u36890 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u21345 \u36890 \
+http://192.168.8.1:50101/6000000003000016791/FifastbLive/index.m3u8$1.8M576_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u24555 \u20048 \u22402 \u38035 " tvg-name="\u24555 \u20048 \u22402 \u38035 " tvg-logo="https://json.doube.eu.org/logo/\u24555 \u20048 \u22402 \u38035 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u24555 \u20048 \u22402 \u38035 \
+http://192.168.8.1:50101/5000000011000031206/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u24555 \u20048 \u22402 \u38035 " tvg-name="\u24555 \u20048 \u22402 \u38035 " tvg-logo="https://json.doube.eu.org/logo/\u24555 \u20048 \u22402 \u38035 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u24555 \u20048 \u22402 \u38035 \
+http://192.168.8.1:50101/2000000002000000067/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000006692/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000018044/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000032695/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265024/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000030452/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000009115/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21513 \u26519 \u21355 \u35270 " tvg-name="\u21513 \u26519 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21513 \u26519 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21513 \u26519 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000011000031117/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21513 \u26519 \u21355 \u35270 " tvg-name="\u21513 \u26519 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21513 \u26519 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21513 \u26519 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000027730/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21513 \u26519 \u21355 \u35270 " tvg-name="\u21513 \u26519 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21513 \u26519 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21513 \u26519 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040013/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u24310 \u36793 \u21355 \u35270 " tvg-name="\u24310 \u36793 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24310 \u36793 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21513 \u26519 \u24310 \u36793 \u21355 \u35270 \
+http://192.168.8.1:50101/2000000003000000049/FifastbLive/index.m3u8$4M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u24310 \u36793 \u21355 \u35270 " tvg-name="\u24310 \u36793 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24310 \u36793 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21513 \u26519 \u24310 \u36793 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000266008/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u33487 \u21355 \u35270 " tvg-name="\u27743 \u33487 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u33487 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000014861/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u33487 \u21355 \u35270 " tvg-name="\u27743 \u33487 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u33487 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000001828/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u33487 \u21355 \u35270 " tvg-name="\u27743 \u33487 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u33487 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000019351/FifastbLive/index.m3u8$7.5M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u33487 \u21355 \u35270 " tvg-name="\u27743 \u33487 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u33487 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265030/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u33487 \u21355 \u35270 " tvg-name="\u27743 \u33487 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u33487 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000018509/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u33487 \u21355 \u35270 " tvg-name="\u27743 \u33487 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u33487 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000004684/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u20248 \u28459 \u21345 \u36890 " tvg-name="\u20248 \u28459 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u20248 \u28459 \u21345 \u36890 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u20248 \u28459 \u21345 \u36890 \
+http://192.168.8.1:50101/1000000002000010063/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u20248 \u28459 \u21345 \u36890 " tvg-name="\u20248 \u28459 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u20248 \u28459 \u21345 \u36890 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u20248 \u28459 \u21345 \u36890 \
+http://192.168.8.1:50101/6000000003000030492/FifastbLive/index.m3u8$1.8M576_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u35199 \u21355 \u35270 " tvg-name="\u27743 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000006000268001/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u35199 \u21355 \u35270 " tvg-name="\u27743 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000011210/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u35199 \u21355 \u35270 " tvg-name="\u27743 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265032/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u35199 \u21355 \u35270 " tvg-name="\u27743 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000001000032154/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27743 \u35199 \u21355 \u35270 " tvg-name="\u27743 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27743 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000013731/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u36797 \u23425 \u21355 \u35270 " tvg-name="\u36797 \u23425 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u36797 \u23425 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u36797 \u23425 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000011671/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u36797 \u23425 \u21355 \u35270 " tvg-name="\u36797 \u23425 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u36797 \u23425 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u36797 \u23425 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000001945/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u36797 \u23425 \u21355 \u35270 " tvg-name="\u36797 \u23425 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u36797 \u23425 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u36797 \u23425 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265022/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u36797 \u23425 \u21355 \u35270 " tvg-name="\u36797 \u23425 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u36797 \u23425 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u36797 \u23425 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000001000008940/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u36797 \u23425 \u21355 \u35270 " tvg-name="\u36797 \u23425 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u36797 \u23425 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u36797 \u23425 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000024033/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u20869 \u33945 \u21476 \u21355 \u35270 " tvg-name="\u20869 \u33945 \u21476 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u20869 \u33945 \u21476 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20869 \u33945 \u21476 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000014080/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23425 \u22799 \u21355 \u35270 " tvg-name="\u23425 \u22799 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23425 \u22799 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23425 \u22799 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000031451/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23425 \u22799 \u21355 \u35270 " tvg-name="\u23425 \u22799 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23425 \u22799 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23425 \u22799 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040022/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u23433 \u22810 \u21355 \u35270 " tvg-name="\u23433 \u22810 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23433 \u22810 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u38738 \u28023 \u23433 \u22810 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000266001/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23433 \u22810 \u21355 \u35270 " tvg-name="\u23433 \u22810 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23433 \u22810 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u38738 \u28023 \u23433 \u22810 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000022124/FifastbLive/index.m3u8$2.5M576_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u38738 \u28023 \u21355 \u35270 " tvg-name="\u38738 \u28023 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u38738 \u28023 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u38738 \u28023 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000013359/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u38738 \u28023 \u21355 \u35270 " tvg-name="\u38738 \u28023 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u38738 \u28023 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u38738 \u28023 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040015/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21414 \u38376 \u21355 \u35270 " tvg-name="\u21414 \u38376 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u21414 \u38376 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21414 \u38376 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000266006/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u19996 \u25945 \u32946 " tvg-name="\u23665 \u19996 \u25945 \u32946 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u19996 \u25945 \u32946 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u19996 \u25945 \u32946 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000004097/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u19996 \u25945 \u32946 " tvg-name="\u23665 \u19996 \u25945 \u32946 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u19996 \u25945 \u32946 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u19996 \u25945 \u32946 \u21355 \u35270 \
+http://192.168.8.1:50101/2000000003000000013/FifastbLive/index.m3u8$1.5M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u23665 \u19996 \u21355 \u35270 " tvg-name="\u23665 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000004134/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u19996 \u21355 \u35270 " tvg-name="\u23665 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000016568/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u19996 \u21355 \u35270 " tvg-name="\u23665 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000020424/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u19996 \u21355 \u35270 " tvg-name="\u23665 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265019/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u19996 \u21355 \u35270 " tvg-name="\u23665 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000027763/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u19996 \u21355 \u35270 " tvg-name="\u23665 \u19996 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u19996 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u19996 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000012807/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u35199 \u21355 \u35270 " tvg-name="\u23665 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000021220/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u23665 \u35199 \u21355 \u35270 " tvg-name="\u23665 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u23665 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23665 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040023/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u20892 \u26519 \u21355 \u35270 " tvg-name="\u20892 \u26519 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u20892 \u26519 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u38485 \u35199 \u20892 \u26519 \u21355 \u35270 \
+http://192.168.8.1:50101/2000000003000000046/FifastbLive/index.m3u8$4M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u20892 \u26519 \u21355 \u35270 " tvg-name="\u20892 \u26519 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u20892 \u26519 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u38485 \u35199 \u20892 \u26519 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000266003/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u38485 \u35199 \u21355 \u35270 " tvg-name="\u38485 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u38485 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u38485 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000007495/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u38485 \u35199 \u21355 \u35270 " tvg-name="\u38485 \u35199 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u38485 \u35199 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u38485 \u35199 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040017/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 ICS\u22806 \u35821 " tvg-name="\u19978 \u28023 ICS\u22806 \u35821 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 ICS\u22806 \u35821 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 ICS\u22806 \u35821 \
+http://192.168.8.1:50101/5000000010000030951/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 ICS\u22806 \u35821 " tvg-name="\u19978 \u28023 ICS\u22806 \u35821 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 ICS\u22806 \u35821 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 ICS\u22806 \u35821 \
+http://192.168.8.1:50101/2000000002000000001/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u31532 \u19968 \u36130 \u32463 " tvg-name="\u31532 \u19968 \u36130 \u32463 " tvg-logo="https://json.doube.eu.org/logo/\u31532 \u19968 \u36130 \u32463 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u31532 \u19968 \u36130 \u32463 \
+http://192.168.8.1:50101/5000000010000027146/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u31532 \u19968 \u36130 \u32463 " tvg-name="\u31532 \u19968 \u36130 \u32463 " tvg-logo="https://json.doube.eu.org/logo/\u31532 \u19968 \u36130 \u32463 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u31532 \u19968 \u36130 \u32463 \
+http://192.168.8.1:50101/2000000002000000004/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u36130 \u32463 " tvg-name="\u19996 \u26041 \u36130 \u32463 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u36130 \u32463 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u36130 \u32463 \
+http://192.168.8.1:50101/5000000007000010003/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u36130 \u32463 " tvg-name="\u19996 \u26041 \u36130 \u32463 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u36130 \u32463 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u36130 \u32463 \
+http://192.168.8.1:50101/2000000002000000090/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u21355 \u35270 " tvg-name="\u19996 \u26041 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000014098/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u21355 \u35270 " tvg-name="\u19996 \u26041 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000003639/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u21355 \u35270 " tvg-name="\u19996 \u26041 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000005866/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u21355 \u35270 " tvg-name="\u19996 \u26041 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265018/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u21355 \u35270 " tvg-name="\u19996 \u26041 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000032246/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u21355 \u35270 " tvg-name="\u19996 \u26041 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000030202/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u19996 \u26041 \u21355 \u35270 " tvg-name="\u19996 \u26041 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19996 \u26041 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u21355 \u35270 \
+http://192.168.8.1:50101/2000000002000000056/FifastbLive/index.m3u8$2M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 \u19996 \u26041 \u24433 \u35270 " tvg-name="\u19978 \u28023 \u19996 \u26041 \u24433 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 \u19996 \u26041 \u24433 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u24433 \u35270 \
+http://192.168.8.1:50101/5000000010000032212/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 \u19996 \u26041 \u24433 \u35270 " tvg-name="\u19978 \u28023 \u19996 \u26041 \u24433 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 \u19996 \u26041 \u24433 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u19996 \u26041 \u24433 \u35270 \
+http://192.168.8.1:50101/2000000002000000013/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 \u37117 \u24066 " tvg-name="\u19978 \u28023 \u37117 \u24066 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 \u37117 \u24066 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u37117 \u24066 \
+http://192.168.8.1:50101/5000000010000018926/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 \u37117 \u24066 " tvg-name="\u19978 \u28023 \u37117 \u24066 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 \u37117 \u24066 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u37117 \u24066 \
+http://192.168.8.1:50101/2000000002000000012/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u27861 \u27835 \u22825 \u22320 " tvg-name="\u27861 \u27835 \u22825 \u22320 " tvg-logo="https://json.doube.eu.org/logo/\u27861 \u27835 \u22825 \u22320 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u27861 \u27835 \u22825 \u22320 \
+http://192.168.8.1:50101/2000000002000000014/FifastbLive/index.m3u8$7M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21704 \u21704 \u28843 \u21160 " tvg-name="\u21704 \u21704 \u28843 \u21160 " tvg-logo="https://json.doube.eu.org/logo/\u21704 \u21704 \u28843 \u21160 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u21704 \u21704 \u28843 \u21160 \
+http://192.168.8.1:50101/5000000011000031123/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21704 \u21704 \u28843 \u21160 " tvg-name="\u21704 \u21704 \u28843 \u21160 " tvg-logo="https://json.doube.eu.org/logo/\u21704 \u21704 \u28843 \u21160 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u21704 \u21704 \u28843 \u21160 \
+http://192.168.8.1:50101/5000000005000031641/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21704 \u21704 \u28843 \u21160 " tvg-name="\u21704 \u21704 \u28843 \u21160 " tvg-logo="https://json.doube.eu.org/logo/\u21704 \u21704 \u28843 \u21160 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u21704 \u21704 \u28843 \u21160 \
+http://192.168.8.1:50101/1000000002000000172/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u20154 \u25991 " tvg-name="\u32426 \u23454 \u20154 \u25991 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u20154 \u25991 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u32426 \u23454 \u20154 \u25991 \
+http://192.168.8.1:50101/1000000001000016545/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u20154 \u25991 " tvg-name="\u32426 \u23454 \u20154 \u25991 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u20154 \u25991 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u32426 \u23454 \u20154 \u25991 \
+http://192.168.8.1:50101/5000000004000010282/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u20154 \u25991 " tvg-name="\u32426 \u23454 \u20154 \u25991 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u20154 \u25991 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u32426 \u23454 \u20154 \u25991 \
+http://192.168.8.1:50101/1000000005000265021/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u20154 \u25991 " tvg-name="\u32426 \u23454 \u20154 \u25991 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u20154 \u25991 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u32426 \u23454 \u20154 \u25991 \
+http://192.168.8.1:50101/5000000001000021713/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u32426 \u23454 \u20154 \u25991 " tvg-name="\u32426 \u23454 \u20154 \u25991 " tvg-logo="https://json.doube.eu.org/logo/\u32426 \u23454 \u20154 \u25991 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u32426 \u23454 \u20154 \u25991 \
+http://192.168.8.1:50101/1000000001000010606/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 \u20116 \u26143 \u20307 \u32946 " tvg-name="\u19978 \u28023 \u20116 \u26143 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 \u20116 \u26143 \u20307 \u32946 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u20116 \u26143 \u20307 \u32946 \
+http://192.168.8.1:50101/5000000010000017540/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 \u20116 \u26143 \u20307 \u32946 " tvg-name="\u19978 \u28023 \u20116 \u26143 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 \u20116 \u26143 \u20307 \u32946 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u20116 \u26143 \u20307 \u32946 \
+http://192.168.8.1:50101/2000000002000000007/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 \u26032 \u38395 \u32508 \u21512 " tvg-name="\u19978 \u28023 \u26032 \u38395 \u32508 \u21512 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 \u26032 \u38395 \u32508 \u21512 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u26032 \u38395 \u32508 \u21512 \
+http://192.168.8.1:50101/5000000011000031110/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19978 \u28023 \u26032 \u38395 \u32508 \u21512 " tvg-name="\u19978 \u28023 \u26032 \u38395 \u32508 \u21512 " tvg-logo="https://json.doube.eu.org/logo/\u19978 \u28023 \u26032 \u38395 \u32508 \u21512 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u19978 \u28023 \u26032 \u38395 \u32508 \u21512 \
+http://192.168.8.1:50101/2000000002000000005/FifastbLive/index.m3u8$2.5M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u28145 \u22323 \u21355 \u35270 " tvg-name="\u28145 \u22323 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28145 \u22323 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28145 \u22323 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000007410/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28145 \u22323 \u21355 \u35270 " tvg-name="\u28145 \u22323 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28145 \u22323 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28145 \u22323 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000002116/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u28145 \u22323 \u21355 \u35270 " tvg-name="\u28145 \u22323 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28145 \u22323 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28145 \u22323 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000009227/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28145 \u22323 \u21355 \u35270 " tvg-name="\u28145 \u22323 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28145 \u22323 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28145 \u22323 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265028/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28145 \u22323 \u21355 \u35270 " tvg-name="\u28145 \u22323 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28145 \u22323 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28145 \u22323 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000024026/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28145 \u22323 \u21355 \u35270 " tvg-name="\u28145 \u22323 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28145 \u22323 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u28145 \u22323 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000011645/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u24247 \u24052 \u21355 \u35270 " tvg-name="\u24247 \u24052 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24247 \u24052 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22235 \u24029 \u24247 \u24052 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000266002/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u24247 \u24052 \u21355 \u35270 " tvg-name="\u24247 \u24052 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u24247 \u24052 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22235 \u24029 \u24247 \u24052 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000003000001598/FifastbLive/index.m3u8$2.5M576_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u22235 \u24029 \u21355 \u35270 " tvg-name="\u22235 \u24029 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22235 \u24029 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22235 \u24029 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000006119/FifastbLive/index.m3u8$7.5M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u22235 \u24029 \u21355 \u35270 " tvg-name="\u22235 \u24029 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22235 \u24029 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22235 \u24029 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000016825/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u25506 \u32034 \u32426 \u24405 \
+http://192.168.8.1:50101/2000000004000000007/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u25506 \u32034 \u32426 \u24405 \
+http://192.168.8.1:50101/5359008697329269813/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u22825 \u27941 \u21355 \u35270 " tvg-name="\u22825 \u27941 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22825 \u27941 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22825 \u27941 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000006827/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u22825 \u27941 \u21355 \u35270 " tvg-name="\u22825 \u27941 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22825 \u27941 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22825 \u27941 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000009186/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u22825 \u27941 \u21355 \u35270 " tvg-name="\u22825 \u27941 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22825 \u27941 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22825 \u27941 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000003475/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u22825 \u27941 \u21355 \u35270 " tvg-name="\u22825 \u27941 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22825 \u27941 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22825 \u27941 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265026/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u22825 \u27941 \u21355 \u35270 " tvg-name="\u22825 \u27941 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22825 \u27941 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22825 \u27941 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000001000030788/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u22825 \u27941 \u21355 \u35270 " tvg-name="\u22825 \u27941 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u22825 \u27941 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u22825 \u27941 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000000831/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u35199 \u34255 \u34255 \u35821 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000002000021549/FifastbLive/index.m3u8$2.5M576_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u35199 \u34255 \u21355 \u35270 " tvg-name="\u35199 \u34255 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u35199 \u34255 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u35199 \u34255 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000015894/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u26032 \u28023 \u21335 \
+http://192.168.8.1:50101/2000000003000000011/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u26032 \u30086 \u21355 \u35270 " tvg-name="\u26032 \u30086 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u26032 \u30086 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u26032 \u30086 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000029441/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u26032 \u30086 \u21355 \u35270 " tvg-name="\u26032 \u30086 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u26032 \u30086 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u26032 \u30086 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040018/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u28843 \u21160 3D\
+http://192.168.8.1:50101/2000000004000000012/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u28843 \u21160 3D\
+http://192.168.8.1:50101/6000000003000000558/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u20113 \u21335 \u21355 \u35270 " tvg-name="\u20113 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u20113 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20113 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000011000031120/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u20113 \u21335 \u21355 \u35270 " tvg-name="\u20113 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u20113 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20113 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000024694/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u20113 \u21335 \u21355 \u35270 " tvg-name="\u20113 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u20113 \u21335 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20113 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000006000040019/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u27993 \u27743 \u25945 \u31185 \u24433 \u35270 \
+http://192.168.8.1:50101/2000000004000000001/FifastbLive/index.m3u8$1.8M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u27993 \u27743 \u21355 \u35270 " tvg-name="\u27993 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27993 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27993 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000007275/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27993 \u27743 \u21355 \u35270 " tvg-name="\u27993 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27993 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27993 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000032070/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u27993 \u27743 \u21355 \u35270 " tvg-name="\u27993 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27993 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27993 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000014260/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27993 \u27743 \u21355 \u35270 " tvg-name="\u27993 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27993 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27993 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265031/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u27993 \u27743 \u21355 \u35270 " tvg-name="\u27993 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27993 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27993 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000017320/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27993 \u27743 \u21355 \u35270 " tvg-name="\u27993 \u27743 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u27993 \u27743 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27993 \u27743 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000009806/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u37325 \u24198 \u21355 \u35270 " tvg-name="\u37325 \u24198 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u37325 \u24198 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u37325 \u24198 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000001096/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u37325 \u24198 \u21355 \u35270 " tvg-name="\u37325 \u24198 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u37325 \u24198 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u37325 \u24198 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000025797/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u37325 \u24198 \u21355 \u35270 " tvg-name="\u37325 \u24198 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u37325 \u24198 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u37325 \u24198 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265017/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u37325 \u24198 \u21355 \u35270 " tvg-name="\u37325 \u24198 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u37325 \u24198 \u21355 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u37325 \u24198 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000002000018937/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://json.doube.eu.org/logo/CETV1.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 1\
+http://192.168.8.1:50101/5000000002000002652/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://json.doube.eu.org/logo/CETV1.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 1\
+http://192.168.8.1:50101/1000000002000027253/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://json.doube.eu.org/logo/CETV1.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 1\
+http://192.168.8.1:50101/6000000003000018981/FifastbLive/index.m3u8$1.8M576_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://json.doube.eu.org/logo/CETV2.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 2\
+http://192.168.8.1:50101/2000000003000000047/FifastbLive/index.m3u8$4M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://json.doube.eu.org/logo/CETV2.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 2\
+http://192.168.8.1:50101/1000000005000266004/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://json.doube.eu.org/logo/CETV2.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 2\
+http://192.168.8.1:50101/5000000011000031201/FifastbLive/index.m3u8$2.5M576_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://json.doube.eu.org/logo/CETV4.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 4\
+http://192.168.8.1:50101/5000000011000031126/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://json.doube.eu.org/logo/CETV4.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 4\
+http://192.168.8.1:50101/1000000005000025333/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://json.doube.eu.org/logo/CETV4.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 4\
+http://192.168.8.1:50101/5000000006000012123/FifastbLive/index.m3u8$2.5M576_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://json.doube.eu.org/logo/CETV4.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u25945 \u32946 4\
+http://192.168.8.1:50101/6000000005000042312/FifastbLive/index.m3u8$1.8M576_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u20013 \u22269 \u22825 \u27668 " tvg-name="\u20013 \u22269 \u22825 \u27668 " tvg-logo="https://json.doube.eu.org/logo/\u20013 \u22269 \u22825 \u27668 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u22825 \u27668 \
+http://192.168.8.1:50101/5000000005000031974/FifastbLive/index.m3u8$3.5M576_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u20013 \u22269 \u22825 \u27668 " tvg-name="\u20013 \u22269 \u22825 \u27668 " tvg-logo="https://json.doube.eu.org/logo/\u20013 \u22269 \u22825 \u27668 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20013 \u22269 \u22825 \u27668 \
+http://192.168.8.1:50101/2000000002000000057/FifastbLive/index.m3u8$3.5M540_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u20013 \u21326 \u32654 \u39135 " tvg-name="\u20013 \u21326 \u32654 \u39135 " tvg-logo="https://json.doube.eu.org/logo/\u20013 \u21326 \u32654 \u39135 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20013 \u21326 \u32654 \u39135 \
+http://192.168.8.1:50101/2000000003000000052/FifastbLive/index.m3u8$4M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u20013 \u21326 \u32654 \u39135 " tvg-name="\u20013 \u21326 \u32654 \u39135 " tvg-logo="https://json.doube.eu.org/logo/\u20013 \u21326 \u32654 \u39135 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u20013 \u21326 \u32654 \u39135 \
+http://192.168.8.1:50101/1000000005000266015/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u23569 \u20799 \u21160 \u28459 \
+http://192.168.8.1:50101/2000000004000000003/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u23569 \u20799 \u21160 \u28459 \
+http://192.168.8.1:50101/8145334647720731271/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u23478 \u24237 \u29702 \u36130 " tvg-name="\u23478 \u24237 \u29702 \u36130 " tvg-logo="https://json.doube.eu.org/logo/\u23478 \u24237 \u29702 \u36130 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23478 \u24237 \u29702 \u36130 \u39057 \u36947 \
+http://192.168.8.1:50101/5000000011000031210/FifastbLive/index.m3u8$2.5M576_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u23478 \u24237 \u29702 \u36130 " tvg-name="\u23478 \u24237 \u29702 \u36130 " tvg-logo="https://json.doube.eu.org/logo/\u23478 \u24237 \u29702 \u36130 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u23478 \u24237 \u29702 \u36130 \u39057 \u36947 \
+http://192.168.8.1:50101/2000000002000000064/FifastbLive/index.m3u8$2.5M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u36130 \u23500 \u22825 \u19979 " tvg-name="\u36130 \u23500 \u22825 \u19979 " tvg-logo="https://json.doube.eu.org/logo/\u36130 \u23500 \u22825 \u19979 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u36130 \u23500 \u22825 \u19979 \
+http://192.168.8.1:50101/5000000011000031208/FifastbLive/index.m3u8$3.5M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u36130 \u23500 \u22825 \u19979 " tvg-name="\u36130 \u23500 \u22825 \u19979 " tvg-logo="https://json.doube.eu.org/logo/\u36130 \u23500 \u22825 \u19979 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u27743 \u33487 \u36130 \u23500 \u22825 \u19979 \
+http://192.168.8.1:50101/2000000002000000069/FifastbLive/index.m3u8$3.5M540_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21714 \u21877 \u30005 \u31454 " tvg-name="\u21714 \u21877 \u30005 \u31454 " tvg-logo="https://json.doube.eu.org/logo/\u21714 \u21877 \u30005 \u31454 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21714 \u21877 \u30005 \u31454 \
+http://192.168.8.1:50101/2000000003000000066/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21714 \u21877 \u30005 \u31454 " tvg-name="\u21714 \u21877 \u30005 \u31454 " tvg-logo="https://json.doube.eu.org/logo/\u21714 \u21877 \u30005 \u31454 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21714 \u21877 \u30005 \u31454 \
+http://192.168.8.1:50101/1000000006000032327/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21714 \u21877 \u36187 \u20107 " tvg-name="\u21714 \u21877 \u36187 \u20107 " tvg-logo="https://json.doube.eu.org/logo/\u21714 \u21877 \u36187 \u20107 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21714 \u21877 \u36187 \u20107 \
+http://192.168.8.1:50101/2000000003000000004/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21714 \u21877 \u36187 \u20107 " tvg-name="\u21714 \u21877 \u36187 \u20107 " tvg-logo="https://json.doube.eu.org/logo/\u21714 \u21877 \u36187 \u20107 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21714 \u21877 \u36187 \u20107 \
+http://192.168.8.1:50101/2000000003000000039/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21714 \u21877 \u36187 \u20107 " tvg-name="\u21714 \u21877 \u36187 \u20107 " tvg-logo="https://json.doube.eu.org/logo/\u21714 \u21877 \u36187 \u20107 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21714 \u21877 \u36187 \u20107 \
+http://192.168.8.1:50101/2000000003000000040/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21714 \u21877 \u36187 \u20107 " tvg-name="\u21714 \u21877 \u36187 \u20107 " tvg-logo="https://json.doube.eu.org/logo/\u21714 \u21877 \u36187 \u20107 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21714 \u21877 \u36187 \u20107 \
+http://192.168.8.1:50101/1000000001000003775/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21714 \u21877 \u36187 \u20107 " tvg-name="\u21714 \u21877 \u36187 \u20107 " tvg-logo="https://json.doube.eu.org/logo/\u21714 \u21877 \u36187 \u20107 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u21714 \u21877 \u36187 \u20107 \
+http://192.168.8.1:50101/1000000001000006906/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u30005 \u23376 \u31454 \u25216 \
+http://192.168.8.1:50101/2000000004000000015/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u30005 \u23376 \u31454 \u25216 \
+http://192.168.8.1:50101/6000000003000011654/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u39640 \u28165 \u23089 \u20048 \
+http://192.168.8.1:50101/2000000004000000013/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u39640 \u28165 \u23089 \u20048 \
+http://192.168.8.1:50101/6000000003000001569/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u40657 \u33683 \u30005 \u24433 " tvg-name="\u40657 \u33683 \u30005 \u24433 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u33683 \u30005 \u24433 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u33683 \u30005 \u24433 \
+http://192.168.8.1:50101/2000000003000000001/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u40657 \u33683 \u30005 \u24433 " tvg-name="\u40657 \u33683 \u30005 \u24433 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u33683 \u30005 \u24433 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u33683 \u30005 \u24433 \
+http://192.168.8.1:50101/1000000004000019624/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u40657 \u33683 \u21160 \u30011 " tvg-name="\u40657 \u33683 \u21160 \u30011 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u33683 \u21160 \u30011 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u33683 \u21160 \u30011 \
+http://192.168.8.1:50101/2000000003000000002/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u40657 \u33683 \u21160 \u30011 " tvg-name="\u40657 \u33683 \u21160 \u30011 " tvg-logo="https://json.doube.eu.org/logo/\u40657 \u33683 \u21160 \u30011 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u40657 \u33683 \u21160 \u30011 \
+http://192.168.8.1:50101/1000000004000021734/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u21326 \u25968 \u26381 \u21153 \
+http://192.168.8.1:50101/2000000004000000025/FifastbLive/index.m3u8$4M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u31934 \u24425 \u24433 \u35270 " tvg-name="\u31934 \u24425 \u24433 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u31934 \u24425 \u24433 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u31934 \u24425 \u24433 \u35270 \
+http://192.168.8.1:50101/2000000004000000063/FifastbLive/index.m3u8$7.2M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u31934 \u24425 \u24433 \u35270 " tvg-name="\u31934 \u24425 \u24433 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u31934 \u24425 \u24433 \u35270 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u31934 \u24425 \u24433 \u35270 \
+http://192.168.8.1:50101/6000000006000320630/FifastbLive/index.m3u8$6.5M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u32858 \u40104 \u29615 \u29699 \u31934 \u36873 " tvg-name="\u32858 \u40104 \u29615 \u29699 \u31934 \u36873 " tvg-logo="https://json.doube.eu.org/logo/\u32858 \u40104 \u29615 \u29699 \u31934 \u36873 .png" group-title="\u21355 \u35270 \u39057 \u36947 ",\u32858 \u40104 \u29615 \u29699 \u31934 \u36873 \
+http://192.168.8.1:50101/6000000004000014516/FifastbLive/index.m3u8$1.8M576_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u28459 \u28216 \u19990 \u30028 \
+http://192.168.8.1:50101/2000000004000000017/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21355 \u35270 \u39057 \u36947 ",\u28459 \u28216 \u19990 \u30028 \
+http://192.168.8.1:50101/6000000003000028434/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://json.doube.eu.org/logo/CGTN.png" group-title="CGTN\uc0\u39057 \u36947 ",CGTN\
+http://192.168.8.1:50101/7745129417417101820/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://json.doube.eu.org/logo/CGTN.png" group-title="CGTN\uc0\u39057 \u36947 ",CGTN\
+http://192.168.8.1:50101/1000000002000009569/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CGTN\uc0\u38463 \u25289 \u20271 \u35821 " tvg-name="CGTN\u38463 \u25289 \u20271 \u35821 " tvg-logo="https://json.doube.eu.org/logo/CGTN\u38463 \u25289 \u20271 \u35821 .png" group-title="CGTN\u39057 \u36947 ",CGTN\u38463 \u25289 \u20271 \u35821 \
+http://192.168.8.1:50101/1000000006000280001/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CGTN\uc0\u20420 \u35821 " tvg-name="CGTN\u20420 \u35821 " tvg-logo="https://json.doube.eu.org/logo/CGTN\u20420 \u35821 .png" group-title="CGTN\u39057 \u36947 ",CGTN\u20420 \u35821 \
+http://192.168.8.1:50101/1000000006000280004/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CGTN\uc0\u27861 \u35821 " tvg-name="CGTN\u27861 \u35821 " tvg-logo="https://json.doube.eu.org/logo/CGTN\u27861 \u35821 .png" group-title="CGTN\u39057 \u36947 ",CGTN\u27861 \u35821 \
+http://192.168.8.1:50101/1000000006000280003/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://json.doube.eu.org/logo/CGTN.png" group-title="CGTN\uc0\u39057 \u36947 ",CGTN\u35760 \u24405 \
+http://192.168.8.1:50101/7114647837765104058/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="CGTN\uc0\u35199 \u29677 \u29273 \u35821 " tvg-name="CGTN\u35199 \u29677 \u29273 \u35821 " tvg-logo="https://json.doube.eu.org/logo/CGTN\u35199 \u29677 \u29273 \u35821 .png" group-title="CGTN\u39057 \u36947 ",CGTN\u35199 \u29677 \u29273 \u35821 \
+http://192.168.8.1:50101/1000000006000280002/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT\uc0\u39057 \u36947 ",Hot\u39118 \u23578 \u38899 \u20048 \
+http://192.168.8.1:50101/2000000004000000004/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT\uc0\u39057 \u36947 ",Hot\u39118 \u23578 \u38899 \u20048 \
+http://192.168.8.1:50101/5529729098703832176/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT\uc0\u39057 \u36947 ",Hot\u31934 \u21697 \u21095 \u22330 \
+http://192.168.8.1:50101/2000000004000000002/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT\uc0\u39057 \u36947 ",Hot\u31934 \u21697 \u21095 \u22330 \
+http://192.168.8.1:50101/8230197131234717902/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT\uc0\u39057 \u36947 ",Hot\u27431 \u32654 \u24433 \u38498 \
+http://192.168.8.1:50101/2000000004000000005/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT\uc0\u39057 \u36947 ",Hot\u27431 \u32654 \u24433 \u38498 \
+http://192.168.8.1:50101/7185203501769528108/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT\uc0\u39057 \u36947 ",Hot\u20122 \u27954 \u24433 \u38498 \
+http://192.168.8.1:50101/2000000004000000006/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT\uc0\u39057 \u36947 ",Hot\u20122 \u27954 \u24433 \u38498 \
+http://192.168.8.1:50101/5841816227539527643/FifastbLive/index.m3u8$2.5M720_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u29233 \u24773 \u21916 \u21095 " tvg-name="NewTV\u29233 \u24773 \u21916 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u29233 \u24773 \u21916 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u29233 \u24773 \u21916 \u21095 \
+http://192.168.8.1:50101/2000000003000000010/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u30005 \u35270 \u21095 " tvg-name="NewTV\u36229 \u32423 \u30005 \u35270 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u30005 \u35270 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/1000000006000268003/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u30005 \u35270 \u21095 " tvg-name="NewTV\u36229 \u32423 \u30005 \u35270 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u30005 \u35270 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/2000000003000000032/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u30005 \u35270 \u21095 " tvg-name="NewTV\u36229 \u32423 \u30005 \u35270 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u30005 \u35270 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/1000000001000008139/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u30005 \u35270 \u21095 " tvg-name="NewTV\u36229 \u32423 \u30005 \u35270 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u30005 \u35270 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/1000000004000024993/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u30005 \u24433 " tvg-name="NewTV\u36229 \u32423 \u30005 \u24433 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u30005 \u24433 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u30005 \u24433 \
+http://192.168.8.1:50101/1000000003000012426/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u30005 \u24433 " tvg-name="NewTV\u36229 \u32423 \u30005 \u24433 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u30005 \u24433 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u30005 \u24433 \
+http://192.168.8.1:50101/2000000003000000031/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u30005 \u24433 " tvg-name="NewTV\u36229 \u32423 \u30005 \u24433 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u30005 \u24433 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u30005 \u24433 \
+http://192.168.8.1:50101/1000000001000012884/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u30005 \u24433 " tvg-name="NewTV\u36229 \u32423 \u30005 \u24433 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u30005 \u24433 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u30005 \u24433 \
+http://192.168.8.1:50101/1000000004000002120/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u20307 \u32946 " tvg-name="NewTV\u36229 \u32423 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u20307 \u32946 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u20307 \u32946 \
+http://192.168.8.1:50101/1000000001000009601/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u20307 \u32946 " tvg-name="NewTV\u36229 \u32423 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u20307 \u32946 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u20307 \u32946 \
+http://192.168.8.1:50101/2000000003000000030/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u20307 \u32946 " tvg-name="NewTV\u36229 \u32423 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u20307 \u32946 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u20307 \u32946 \
+http://192.168.8.1:50101/1000000001000009204/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u20307 \u32946 " tvg-name="NewTV\u36229 \u32423 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u20307 \u32946 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u20307 \u32946 \
+http://192.168.8.1:50101/1000000004000007755/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u32508 \u33402 " tvg-name="NewTV\u36229 \u32423 \u32508 \u33402 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u32508 \u33402 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u32508 \u33402 \
+http://192.168.8.1:50101/1000000006000268002/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u32508 \u33402 " tvg-name="NewTV\u36229 \u32423 \u32508 \u33402 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u32508 \u33402 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u32508 \u33402 \
+http://192.168.8.1:50101/2000000003000000029/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u32508 \u33402 " tvg-name="NewTV\u36229 \u32423 \u32508 \u33402 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u32508 \u33402 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u32508 \u33402 \
+http://192.168.8.1:50101/1000000001000025771/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u36229 \u32423 \u32508 \u33402 " tvg-name="NewTV\u36229 \u32423 \u32508 \u33402 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u36229 \u32423 \u32508 \u33402 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u36229 \u32423 \u32508 \u33402 \
+http://192.168.8.1:50101/1000000004000023658/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u28526 \u22920 \u36771 \u23110 " tvg-name="NewTV\u28526 \u22920 \u36771 \u23110 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u28526 \u22920 \u36771 \u23110 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u28526 \u22920 \u36771 \u23110 \
+http://192.168.8.1:50101/2000000003000000018/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u19996 \u21271 \u28909 \u21095 " tvg-name="NewTV\u19996 \u21271 \u28909 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u19996 \u21271 \u28909 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u19996 \u21271 \u21095 \u22330 \
+http://192.168.8.1:50101/1000000005000266013/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u19996 \u21271 \u28909 \u21095 " tvg-name="NewTV\u19996 \u21271 \u28909 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u19996 \u21271 \u28909 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u19996 \u21271 \u28909 \u21095 \
+http://192.168.8.1:50101/2000000003000000051/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u21160 \u20316 \u30005 \u24433 " tvg-name="NewTV\u21160 \u20316 \u30005 \u24433 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u21160 \u20316 \u30005 \u24433 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u21160 \u20316 \u30005 \u24433 \
+http://192.168.8.1:50101/2000000003000000017/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u21160 \u20316 \u30005 \u24433 " tvg-name="NewTV\u21160 \u20316 \u30005 \u24433 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u21160 \u20316 \u30005 \u24433 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u21160 \u20316 \u30005 \u24433 \
+http://192.168.8.1:50101/1000000004000018653/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u21476 \u35013 \u21095 \u22330 " tvg-name="NewTV\u21476 \u35013 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u21476 \u35013 \u21095 \u22330 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u21476 \u35013 \u21095 \u22330 \
+http://192.168.8.1:50101/2000000003000000024/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u27426 \u20048 \u21095 \u22330 " tvg-name="NewTV\u27426 \u20048 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u27426 \u20048 \u21095 \u22330 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u27426 \u20048 \u21095 \u22330 \
+http://192.168.8.1:50101/2000000003000000050/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u27426 \u20048 \u21095 \u22330 " tvg-name="NewTV\u27426 \u20048 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u27426 \u20048 \u21095 \u22330 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u27426 \u20048 \u21095 \u22330 \
+http://192.168.8.1:50101/1000000005000266012/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u23478 \u24237 \u21095 \u22330 " tvg-name="NewTV\u23478 \u24237 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u23478 \u24237 \u21095 \u22330 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u23478 \u24237 \u21095 \u22330 \
+http://192.168.8.1:50101/2000000003000000012/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u23478 \u24237 \u21095 \u22330 " tvg-name="NewTV\u23478 \u24237 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u23478 \u24237 \u21095 \u22330 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u23478 \u24237 \u21095 \u22330 \
+http://192.168.8.1:50101/1000000004000008284/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u37329 \u29260 \u32508 \u33402 " tvg-name="NewTV\u37329 \u29260 \u32508 \u33402 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u37329 \u29260 \u32508 \u33402 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u37329 \u29260 \u32508 \u33402 \
+http://192.168.8.1:50101/2000000003000000005/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u37329 \u29260 \u32508 \u33402 " tvg-name="NewTV\u37329 \u29260 \u32508 \u33402 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u37329 \u29260 \u32508 \u33402 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u37329 \u29260 \u32508 \u33402 \
+http://192.168.8.1:50101/1000000004000026167/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u24778 \u24730 \u24748 \u30097 " tvg-name="NewTV\u24778 \u24730 \u24748 \u30097 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u24778 \u24730 \u24748 \u30097 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u24778 \u24730 \u24748 \u30097 \
+http://192.168.8.1:50101/2000000003000000015/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u24778 \u24730 \u24748 \u30097 " tvg-name="NewTV\u24778 \u24730 \u24748 \u30097 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u24778 \u24730 \u24748 \u30097 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u24778 \u24730 \u24748 \u30097 \
+http://192.168.8.1:50101/1000000004000024282/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u31934 \u21697 \u22823 \u21095 " tvg-name="NewTV\u31934 \u21697 \u22823 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u31934 \u21697 \u22823 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u31934 \u21697 \u22823 \u21095 \
+http://192.168.8.1:50101/2000000003000000020/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u31934 \u21697 \u22823 \u21095 " tvg-name="NewTV\u31934 \u21697 \u22823 \u21095 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u31934 \u21697 \u22823 \u21095 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u31934 \u21697 \u22823 \u21095 \
+http://192.168.8.1:50101/1000000004000013968/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u31934 \u21697 \u32426 \u24405 " tvg-name="NewTV\u31934 \u21697 \u32426 \u24405 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u31934 \u21697 \u32426 \u24405 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u31934 \u21697 \u32426 \u24405 \
+http://192.168.8.1:50101/1000000004000013730/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="https://json.doube.eu.org/logo/NewTV.png" group-title="NewTV\uc0\u39057 \u36947 ",NewTV\u31934 \u21697 \u35760 \u24405 \
+http://192.168.8.1:50101/2000000003000000019/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u31934 \u21697 \u33804 \u23456 " tvg-name="NewTV\u31934 \u21697 \u33804 \u23456 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u31934 \u21697 \u33804 \u23456 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u31934 \u21697 \u33804 \u23456 \
+http://192.168.8.1:50101/2000000003000000067/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u31934 \u21697 \u33804 \u23456 " tvg-name="NewTV\u31934 \u21697 \u33804 \u23456 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u31934 \u21697 \u33804 \u23456 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u31934 \u21697 \u33804 \u23456 \
+http://192.168.8.1:50101/1000000006000032328/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u31934 \u21697 \u20307 \u32946 " tvg-name="NewTV\u31934 \u21697 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u31934 \u21697 \u20307 \u32946 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u31934 \u21697 \u20307 \u32946 \
+http://192.168.8.1:50101/2000000003000000021/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u31934 \u21697 \u20307 \u32946 " tvg-name="NewTV\u31934 \u21697 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u31934 \u21697 \u20307 \u32946 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u31934 \u21697 \u20307 \u32946 \
+http://192.168.8.1:50101/1000000004000014634/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="https://json.doube.eu.org/logo/NewTV.png" group-title="NewTV\uc0\u39057 \u36947 ",NewTV\u31934 \u21697 \u32508 \u21512 \
+http://192.168.8.1:50101/2000000003000000008/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="https://json.doube.eu.org/logo/NewTV.png" group-title="NewTV\uc0\u39057 \u36947 ",NewTV\u31934 \u21697 \u32508 \u21512 \
+http://192.168.8.1:50101/1000000004000019008/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u20891 \u26053 \u21095 \u22330 " tvg-name="NewTV\u20891 \u26053 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u20891 \u26053 \u21095 \u22330 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u20891 \u26053 \u21095 \u22330 \
+http://192.168.8.1:50101/2000000003000000014/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u20891 \u20107 \u35780 \u35770 " tvg-name="NewTV\u20891 \u20107 \u35780 \u35770 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u20891 \u20107 \u35780 \u35770 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u20891 \u20107 \u35780 \u35770 \
+http://192.168.8.1:50101/2000000003000000022/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u39749 \u21147 \u28487 \u28248 " tvg-name="NewTV\u39749 \u21147 \u28487 \u28248 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u39749 \u21147 \u28487 \u28248 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u39749 \u21147 \u28487 \u28248 \
+http://192.168.8.1:50101/2000000003000000041/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u39749 \u21147 \u28487 \u28248 " tvg-name="NewTV\u39749 \u21147 \u28487 \u28248 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u39749 \u21147 \u28487 \u28248 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u39749 \u21147 \u28487 \u28248 \
+http://192.168.8.1:50101/1000000001000006197/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u39749 \u21147 \u28487 \u28248 " tvg-name="NewTV\u39749 \u21147 \u28487 \u28248 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u39749 \u21147 \u28487 \u28248 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u39749 \u21147 \u28487 \u28248 \
+http://192.168.8.1:50101/1000000005000266014/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u26126 \u26143 \u22823 \u29255 " tvg-name="NewTV\u26126 \u26143 \u22823 \u29255 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u26126 \u26143 \u22823 \u29255 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u26126 \u26143 \u22823 \u29255 \
+http://192.168.8.1:50101/2000000003000000016/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u20892 \u19994 \u33268 \u23500 " tvg-name="NewTV\u20892 \u19994 \u33268 \u23500 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u20892 \u19994 \u33268 \u23500 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u20892 \u19994 \u33268 \u23500 \
+http://192.168.8.1:50101/2000000003000000003/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u27494 \u25615 \u19990 \u30028 " tvg-name="NewTV\u27494 \u25615 \u19990 \u30028 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u27494 \u25615 \u19990 \u30028 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u27494 \u21338 \u19990 \u30028 \
+http://192.168.8.1:50101/2000000003000000007/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u28843 \u33310 \u26410 \u26469 " tvg-name="NewTV\u28843 \u33310 \u26410 \u26469 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u28843 \u33310 \u26410 \u26469 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u28843 \u33310 \u26410 \u26469 \
+http://192.168.8.1:50101/2000000003000000044/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u28843 \u33310 \u26410 \u26469 " tvg-name="NewTV\u28843 \u33310 \u26410 \u26469 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u28843 \u33310 \u26410 \u26469 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u28843 \u33310 \u26410 \u26469 \
+http://192.168.8.1:50101/1000000001000000515/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u24609 \u20276 \u20581 \u24247 " tvg-name="NewTV\u24609 \u20276 \u20581 \u24247 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u24609 \u20276 \u20581 \u24247 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u24609 \u20276 \u20581 \u24247 \
+http://192.168.8.1:50101/2000000003000000023/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="NewTV\uc0\u24609 \u20276 \u20581 \u24247 " tvg-name="NewTV\u24609 \u20276 \u20581 \u24247 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u24609 \u20276 \u20581 \u24247 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u24609 \u20276 \u20581 \u24247 \
+http://192.168.8.1:50101/1000000005000266011/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="NewTV\uc0\u20013 \u22269 \u21151 \u22827 " tvg-name="NewTV\u20013 \u22269 \u21151 \u22827 " tvg-logo="https://json.doube.eu.org/logo/NewTV\u20013 \u22269 \u21151 \u22827 .png" group-title="NewTV\u39057 \u36947 ",NewTV\u20013 \u22269 \u21151 \u22827 \
+http://192.168.8.1:50101/2000000003000000009/FifastbLive/index.m3u8$4M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21160 \u28459 \u31168 \u22330 " tvg-name="\u21160 \u28459 \u31168 \u22330 " tvg-logo="https://json.doube.eu.org/logo/\u21160 \u28459 \u31168 \u22330 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u21160 \u28459 \u31168 \u22330 \
+http://192.168.8.1:50101/5000000011000031113/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21160 \u28459 \u31168 \u22330 " tvg-name="\u21160 \u28459 \u31168 \u22330 " tvg-logo="https://json.doube.eu.org/logo/\u21160 \u28459 \u31168 \u22330 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u21160 \u28459 \u31168 \u22330 \
+http://192.168.8.1:50101/5000000002000023636/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21160 \u28459 \u31168 \u22330 " tvg-name="\u21160 \u28459 \u31168 \u22330 " tvg-logo="https://json.doube.eu.org/logo/\u21160 \u28459 \u31168 \u22330 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u21160 \u28459 \u31168 \u22330 \
+http://192.168.8.1:50101/2000000002000000009/FifastbLive/index.m3u8$2.5M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u37117 \u24066 \u21095 \u22330 " tvg-name="\u37117 \u24066 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/\u37117 \u24066 \u21095 \u22330 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u37117 \u24066 \u21095 \u22330 \
+http://192.168.8.1:50101/5000000011000031111/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u37117 \u24066 \u21095 \u22330 " tvg-name="\u37117 \u24066 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/\u37117 \u24066 \u21095 \u22330 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u37117 \u24066 \u21095 \u22330 \
+http://192.168.8.1:50101/5000000002000004412/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u37117 \u24066 \u21095 \u22330 " tvg-name="\u37117 \u24066 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/\u37117 \u24066 \u21095 \u22330 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u37117 \u24066 \u21095 \u22330 \
+http://192.168.8.1:50101/2000000002000000015/FifastbLive/index.m3u8$2.5M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u27861 \u27835 \u22825 \u22320 " tvg-name="\u27861 \u27835 \u22825 \u22320 " tvg-logo="https://json.doube.eu.org/logo/\u27861 \u27835 \u22825 \u22320 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u27861 \u27835 \u22825 \u22320 \
+http://192.168.8.1:50101/9001547084732463424/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27426 \u31505 \u21095 \u22330 " tvg-name="\u27426 \u31505 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/\u27426 \u31505 \u21095 \u22330 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u27426 \u31505 \u21095 \u22330 \
+http://192.168.8.1:50101/5000000002000009455/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27426 \u31505 \u21095 \u22330 " tvg-name="\u27426 \u31505 \u21095 \u22330 " tvg-logo="https://json.doube.eu.org/logo/\u27426 \u31505 \u21095 \u22330 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u27426 \u31505 \u21095 \u22330 \
+http://192.168.8.1:50101/2000000002000000016/FifastbLive/index.m3u8$3.5M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u37329 \u33394 \u23398 \u22530 " tvg-name="\u37329 \u33394 \u23398 \u22530 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u33394 \u23398 \u22530 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u37329 \u33394 \u23398 \u22530 \
+http://192.168.8.1:50101/5000000010000026105/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u33394 \u23398 \u22530 " tvg-name="\u37329 \u33394 \u23398 \u22530 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u33394 \u23398 \u22530 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u37329 \u33394 \u23398 \u22530 \
+http://192.168.8.1:50101/2000000002000000061/FifastbLive/index.m3u8$7M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21170 \u29190 \u20307 \u32946 " tvg-name="\u21170 \u29190 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/\u21170 \u29190 \u20307 \u32946 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u21170 \u29190 \u20307 \u32946 \
+http://192.168.8.1:50101/5000000002000029972/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21170 \u29190 \u20307 \u32946 " tvg-name="\u21170 \u29190 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/\u21170 \u29190 \u20307 \u32946 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u21170 \u29190 \u20307 \u32946 \
+http://192.168.8.1:50101/2000000002000000008/FifastbLive/index.m3u8$1.2M540_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u20048 \u28216 " tvg-name="\u20048 \u28216 " tvg-logo="https://json.doube.eu.org/logo/\u20048 \u28216 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u20048 \u28216 \
+http://192.168.8.1:50101/5000000011000031112/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u20048 \u28216 " tvg-name="\u20048 \u28216 " tvg-logo="https://json.doube.eu.org/logo/\u20048 \u28216 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u20048 \u28216 \
+http://192.168.8.1:50101/2000000002000000092/FifastbLive/index.m3u8$7M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u20048 \u28216 " tvg-name="\u20048 \u28216 " tvg-logo="https://json.doube.eu.org/logo/\u20048 \u28216 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u20048 \u28216 \
+http://192.168.8.1:50101/5000000006000040025/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u20048 \u28216 " tvg-name="\u20048 \u28216 " tvg-logo="https://json.doube.eu.org/logo/\u20048 \u28216 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u20048 \u28216 \
+http://192.168.8.1:50101/2000000002000000059/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u39749 \u21147 \u36275 \u29699 " tvg-name="\u39749 \u21147 \u36275 \u29699 " tvg-logo="https://json.doube.eu.org/logo/\u39749 \u21147 \u36275 \u29699 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u39749 \u21147 \u36275 \u29699 \
+http://192.168.8.1:50101/5000000011000031207/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u39749 \u21147 \u36275 \u29699 " tvg-name="\u39749 \u21147 \u36275 \u29699 " tvg-logo="https://json.doube.eu.org/logo/\u39749 \u21147 \u36275 \u29699 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u39749 \u21147 \u36275 \u29699 \
+http://192.168.8.1:50101/2000000002000000068/FifastbLive/index.m3u8$7M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u19971 \u24425 \u25103 \u21095 " tvg-name="\u19971 \u24425 \u25103 \u21095 " tvg-logo="https://json.doube.eu.org/logo/\u19971 \u24425 \u25103 \u21095 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u19971 \u24425 \u25103 \u21095 \
+http://192.168.8.1:50101/5000000011000031116/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u19971 \u24425 \u25103 \u21095 " tvg-name="\u19971 \u24425 \u25103 \u21095 " tvg-logo="https://json.doube.eu.org/logo/\u19971 \u24425 \u25103 \u21095 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u19971 \u24425 \u25103 \u21095 \
+http://192.168.8.1:50101/2000000002000000010/FifastbLive/index.m3u8$7M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u29983 \u27963 \u26102 \u23578 " tvg-name="\u29983 \u27963 \u26102 \u23578 " tvg-logo="https://json.doube.eu.org/logo/\u29983 \u27963 \u26102 \u23578 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u29983 \u27963 \u26102 \u23578 \
+http://192.168.8.1:50101/5000000002000019634/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u29983 \u27963 \u26102 \u23578 " tvg-name="\u29983 \u27963 \u26102 \u23578 " tvg-logo="https://json.doube.eu.org/logo/\u29983 \u27963 \u26102 \u23578 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u29983 \u27963 \u26102 \u23578 \
+http://192.168.8.1:50101/2000000002000000006/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u28216 \u25103 \u39118 \u20113 " tvg-name="\u28216 \u25103 \u39118 \u20113 " tvg-logo="https://json.doube.eu.org/logo/\u28216 \u25103 \u39118 \u20113 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u28216 \u25103 \u39118 \u20113 \
+http://192.168.8.1:50101/5000000011000031114/FifastbLive/index.m3u8$7M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28216 \u25103 \u39118 \u20113 " tvg-name="\u28216 \u25103 \u39118 \u20113 " tvg-logo="https://json.doube.eu.org/logo/\u28216 \u25103 \u39118 \u20113 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u28216 \u25103 \u39118 \u20113 \
+http://192.168.8.1:50101/5000000002000027005/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28216 \u25103 \u39118 \u20113 " tvg-name="\u28216 \u25103 \u39118 \u20113 " tvg-logo="https://json.doube.eu.org/logo/\u28216 \u25103 \u39118 \u20113 .png" group-title="SiTV\u39057 \u36947 ",SiTV\u28216 \u25103 \u39118 \u20113 \
+http://192.168.8.1:50101/2000000002000000011/FifastbLive/index.m3u8$2.5M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u35853 \u25112 " tvg-name="iHOT\u29233 \u35853 \u25112 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u35853 \u25112 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u35853 \u25112 \
+http://192.168.8.1:50101/6000000006000070630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u35853 \u25112 " tvg-name="iHOT\u29233 \u35853 \u25112 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u35853 \u25112 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u35853 \u25112 \
+http://192.168.8.1:50101/2000000004000000038/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u21160 \u28459 " tvg-name="iHOT\u29233 \u21160 \u28459 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u21160 \u28459 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u21160 \u28459 \
+http://192.168.8.1:50101/6000000006000280630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u21160 \u28459 " tvg-name="iHOT\u29233 \u21160 \u28459 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u21160 \u28459 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u21160 \u28459 \
+http://192.168.8.1:50101/2000000004000000059/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u37117 \u24066 " tvg-name="iHOT\u29233 \u37117 \u24066 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u37117 \u24066 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u37117 \u24066 \
+http://192.168.8.1:50101/6000000006000080630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u24576 \u26087 " tvg-name="iHOT\u29233 \u24576 \u26087 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u24576 \u26087 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u24576 \u26087 \
+http://192.168.8.1:50101/6000000006000260630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u32463 \u20856 " tvg-name="iHOT\u29233 \u32463 \u20856 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u32463 \u20856 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u32463 \u20856 \
+http://192.168.8.1:50101/6000000006000060630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u31185 \u24187 " tvg-name="iHOT\u29233 \u31185 \u24187 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u31185 \u24187 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u31185 \u24187 \
+http://192.168.8.1:50101/6000000006000020630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u31185 \u24187 " tvg-name="iHOT\u29233 \u31185 \u24187 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u31185 \u24187 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u31185 \u24187 \
+http://192.168.8.1:50101/2000000004000000033/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u31185 \u23398 " tvg-name="iHOT\u29233 \u31185 \u23398 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u31185 \u23398 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u31185 \u23398 \
+http://192.168.8.1:50101/6000000006000160630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u31185 \u23398 " tvg-name="iHOT\u29233 \u31185 \u23398 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u31185 \u23398 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u31185 \u23398 \
+http://192.168.8.1:50101/2000000004000000047/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u28010 \u28459 " tvg-name="iHOT\u29233 \u28010 \u28459 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u28010 \u28459 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u28010 \u28459 \
+http://192.168.8.1:50101/6000000006000040630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u28010 \u28459 " tvg-name="iHOT\u29233 \u28010 \u28459 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u28010 \u28459 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u28010 \u28459 \
+http://192.168.8.1:50101/2000000004000000035/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u21382 \u21490 " tvg-name="iHOT\u29233 \u21382 \u21490 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u21382 \u21490 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u21382 \u21490 \
+http://192.168.8.1:50101/6000000006000150630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u21382 \u21490 " tvg-name="iHOT\u29233 \u21382 \u21490 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u21382 \u21490 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u21382 \u21490 \
+http://192.168.8.1:50101/2000000004000000046/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u26053 \u34892 " tvg-name="iHOT\u29233 \u26053 \u34892 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u26053 \u34892 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u26053 \u34892 \
+http://192.168.8.1:50101/6000000006000250630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u26053 \u34892 " tvg-name="iHOT\u29233 \u26053 \u34892 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u26053 \u34892 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u26053 \u34892 \
+http://192.168.8.1:50101/2000000004000000056/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u22855 \u35848 " tvg-name="iHOT\u29233 \u22855 \u35848 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u22855 \u35848 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u22855 \u35848 \
+http://192.168.8.1:50101/6000000006000270630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u22855 \u35848 " tvg-name="iHOT\u29233 \u22855 \u35848 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u22855 \u35848 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u22855 \u35848 \
+http://192.168.8.1:50101/2000000004000000058/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u38738 \u26149 " tvg-name="iHOT\u29233 \u38738 \u26149 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u38738 \u26149 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u38738 \u26149 \
+http://192.168.8.1:50101/6000000006000100630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u36187 \u36710 " tvg-name="iHOT\u29233 \u36187 \u36710 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u36187 \u36710 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u36187 \u36710 \
+http://192.168.8.1:50101/6000000006000240630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u36187 \u36710 " tvg-name="iHOT\u29233 \u36187 \u36710 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u36187 \u36710 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u36187 \u36710 \
+http://192.168.8.1:50101/2000000004000000055/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u20307 \u32946 " tvg-name="iHOT\u29233 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u20307 \u32946 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u20307 \u32946 \
+http://192.168.8.1:50101/6000000006000290630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u20307 \u32946 " tvg-name="iHOT\u29233 \u20307 \u32946 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u20307 \u32946 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u20307 \u32946 \
+http://192.168.8.1:50101/2000000004000000060/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u29609 \u20855 " tvg-name="iHOT\u29233 \u29609 \u20855 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u29609 \u20855 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u29609 \u20855 \
+http://192.168.8.1:50101/6000000006000220630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u29609 \u20855 " tvg-name="iHOT\u29233 \u29609 \u20855 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u29609 \u20855 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u29609 \u20855 \
+http://192.168.8.1:50101/2000000004000000053/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u21916 \u21095 " tvg-name="iHOT\u29233 \u21916 \u21095 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u21916 \u21095 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u21916 \u21095 \
+http://192.168.8.1:50101/6000000006000010630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u21916 \u21095 " tvg-name="iHOT\u29233 \u21916 \u21095 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u21916 \u21095 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u21916 \u21095 \
+http://192.168.8.1:50101/2000000004000000032/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u24748 \u30097 " tvg-name="iHOT\u29233 \u24748 \u30097 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u24748 \u30097 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u24748 \u30097 \
+http://192.168.8.1:50101/6000000006000050630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u24748 \u30097 " tvg-name="iHOT\u29233 \u24748 \u30097 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u24748 \u30097 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u24748 \u30097 \
+http://192.168.8.1:50101/2000000004000000036/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u24188 \u25945 " tvg-name="iHOT\u29233 \u24188 \u25945 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u24188 \u25945 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u24188 \u25945 \
+http://192.168.8.1:50101/6000000006000180630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u24188 \u25945 " tvg-name="iHOT\u29233 \u24188 \u25945 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u24188 \u25945 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u24188 \u25945 \
+http://192.168.8.1:50101/2000000004000000049/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u38498 \u32447 " tvg-name="iHOT\u29233 \u38498 \u32447 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u38498 \u32447 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u38498 \u32447 \
+http://192.168.8.1:50101/6000000006000030630/FifastbLive/index.m3u8$7.2M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="iHOT\uc0\u29233 \u38498 \u32447 " tvg-name="iHOT\u29233 \u38498 \u32447 " tvg-logo="https://json.doube.eu.org/logo/iHOT\u29233 \u38498 \u32447 .png" group-title="iHOT\u39057 \u36947 ",\u29233 \u38498 \u32447 \
+http://192.168.8.1:50101/2000000004000000034/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u21326 \u35821 \u24433 \u38498 \
+http://192.168.8.1:50101/5000000011000288005/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u26143 \u20809 \u24433 \u38498 \
+http://192.168.8.1:50101/5000000011000288013/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u20840 \u29699 \u22823 \u29255 \
+http://192.168.8.1:50101/5000000011000288009/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u28909 \u38376 \u21095 \u22330 \
+http://192.168.8.1:50101/5000000011000288010/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u35853 \u25112 \u21095 \u22330 \
+http://192.168.8.1:50101/5000000011000288004/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u38738 \u26149 \u21160 \u28459 \
+http://192.168.8.1:50101/5000000011000288008/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u23453 \u23453 \u21160 \u30011 \
+http://192.168.8.1:50101/5000000011000288002/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u25103 \u26354 \u31934 \u36873 \
+http://192.168.8.1:50101/5000000011000288012/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u28909 \u38376 \u32508 \u33402 \
+http://192.168.8.1:50101/5000000011000288011/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u20581 \u24247 \u20859 \u29983 \
+http://192.168.8.1:50101/5000000011000288006/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u21464 \u35838 \u22530 \
+http://192.168.8.1:50101/5000000011000288001/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30475 \u22825 \u19979 \u31934 \u36873 \
+http://192.168.8.1:50101/5000000011000288007/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30005 \u31454 \u22825 \u22530 \
+http://192.168.8.1:50101/5000000011000288003/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000001116/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000002898/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000004876/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000004953/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000006777/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000017342/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000018009/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000019233/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000022620/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000023256/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/5000000001000026930/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000050/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000052/FifastbLive/index.m3u8$2.5M720_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000024/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000025/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000026/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000027/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000028/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000029/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000030/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000049/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u30334 \u35270 \u36890 \u39057 \u36947 ",\u30334 \u35270 \u36890 \
+http://192.168.8.1:50101/2000000002000000051/FifastbLive/index.m3u8$1.2M576_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u20840 \u27665 \u28909 \u32451 \
+http://192.168.8.1:50101/2000000003000000068/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u20840 \u27665 \u28909 \u32451 \
+http://192.168.8.1:50101/1000000006000270007/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000020000011528/FifastbLive/index.m3u8$8M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000020000011529/FifastbLive/index.m3u8$8M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000020000011530/FifastbLive/index.m3u8$8M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000020000011531/FifastbLive/index.m3u8$8M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/2000000003000000060/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/2000000003000000061/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/2000000003000000062/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/2000000003000000063/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/2000000003000000064/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/2000000003000000065/FifastbLive/index.m3u8$8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/1000000006000270001/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/1000000006000270002/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/1000000006000270003/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/1000000006000270004/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/1000000006000270005/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/1000000006000270006/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000000097/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000002019/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000002809/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000003915/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000004193/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000006077/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000006658/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000009788/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000010833/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000011297/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000011518/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000012558/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000012616/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000015470/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000015560/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000017678/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000019839/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000021904/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000023434/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000025380/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000027691/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u21674 \u21653 \u35270 \u39057 " tvg-name="\u21674 \u21653 \u35270 \u39057 " tvg-logo="https://json.doube.eu.org/logo/\u21674 \u21653 \u35270 \u39057 .png" group-title="\u21674 \u21653 \u39057 \u36947 ",\u21674 \u21653 \u35270 \u39057 \
+http://192.168.8.1:50101/3000000010000031669/FifastbLive/index.m3u8$5M1080_\uc0\u21674 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u27714 \u32034 \u21160 \u29289 " tvg-name="\u27714 \u32034 \u21160 \u29289 " tvg-logo="https://json.doube.eu.org/logo/\u27714 \u32034 \u21160 \u29289 .png" group-title="\u27714 \u32034 \u39057 \u36947 ",\u27714 \u32034 \u21160 \u29289 \
+http://192.168.8.1:50101/6000000002000010046/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u27714 \u32034 \u21160 \u29289 " tvg-name="\u27714 \u32034 \u21160 \u29289 " tvg-logo="https://json.doube.eu.org/logo/\u27714 \u32034 \u21160 \u29289 .png" group-title="\u27714 \u32034 \u39057 \u36947 ",\u27714 \u32034 \u21160 \u29289 \
+http://192.168.8.1:50101/2000000004000000009/FifastbLive/index.m3u8$7.5M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u27714 \u32034 \u32426 \u24405 " tvg-name="\u27714 \u32034 \u32426 \u24405 " tvg-logo="https://json.doube.eu.org/logo/\u27714 \u32034 \u32426 \u24405 .png" group-title="\u27714 \u32034 \u39057 \u36947 ",\u27714 \u32034 \u32426 \u24405 \
+http://192.168.8.1:50101/6000000002000032052/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u27714 \u32034 \u32426 \u24405 " tvg-name="\u27714 \u32034 \u32426 \u24405 " tvg-logo="https://json.doube.eu.org/logo/\u27714 \u32034 \u32426 \u24405 .png" group-title="\u27714 \u32034 \u39057 \u36947 ",\u27714 \u32034 \u32426 \u24405 \
+http://192.168.8.1:50101/2000000004000000010/FifastbLive/index.m3u8$7.5M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u27714 \u32034 \u31185 \u23398 " tvg-name="\u27714 \u32034 \u31185 \u23398 " tvg-logo="https://json.doube.eu.org/logo/\u27714 \u32034 \u31185 \u23398 .png" group-title="\u27714 \u32034 \u39057 \u36947 ",\u27714 \u32034 \u31185 \u23398 \
+http://192.168.8.1:50101/6000000002000032344/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u27714 \u32034 \u31185 \u23398 " tvg-name="\u27714 \u32034 \u31185 \u23398 " tvg-logo="https://json.doube.eu.org/logo/\u27714 \u32034 \u31185 \u23398 .png" group-title="\u27714 \u32034 \u39057 \u36947 ",\u27714 \u32034 \u31185 \u23398 \
+http://192.168.8.1:50101/2000000004000000011/FifastbLive/index.m3u8$7.5M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u27714 \u32034 \u29983 \u27963 " tvg-name="\u27714 \u32034 \u29983 \u27963 " tvg-logo="https://json.doube.eu.org/logo/\u27714 \u32034 \u29983 \u27963 .png" group-title="\u27714 \u32034 \u39057 \u36947 ",\u27714 \u32034 \u29983 \u27963 \
+http://192.168.8.1:50101/6000000002000003382/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u27714 \u32034 \u29983 \u27963 " tvg-name="\u27714 \u32034 \u29983 \u27963 " tvg-logo="https://json.doube.eu.org/logo/\u27714 \u32034 \u29983 \u27963 .png" group-title="\u27714 \u32034 \u39057 \u36947 ",\u27714 \u32034 \u29983 \u27963 \
+http://192.168.8.1:50101/2000000004000000008/FifastbLive/index.m3u8$7.5M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000004000006692/FifastbLive/index.m3u8$8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/6000000001000018044/FifastbLive/index.m3u8$8M1080_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000032695/FifastbLive/index.m3u8$8M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000005000265024/FifastbLive/index.m3u8$5.5M1080HEVC_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/5000000010000030452/FifastbLive/index.m3u8$4M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-name="\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://json.doube.eu.org/logo/\u28246 \u21335 \u21355 \u35270 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u21355 \u35270 \
+http://192.168.8.1:50101/1000000001000009115/FifastbLive/index.m3u8$4M1080_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u33590 \u39057 \u36947 " tvg-name="\u33590 \u39057 \u36947 " tvg-logo="https://json.doube.eu.org/logo/\u33590 \u39057 \u36947 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u33590 \u39057 \u36947 \
+http://192.168.8.1:50101/5000000011000031209/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u33590 \u39057 \u36947 " tvg-name="\u33590 \u39057 \u36947 " tvg-logo="https://json.doube.eu.org/logo/\u33590 \u39057 \u36947 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u33590 \u39057 \u36947 \
+http://192.168.8.1:50101/2000000002000000070/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u32426 \u23454 " tvg-name="\u37329 \u40560 \u32426 \u23454 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u32426 \u23454 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u32426 \u23454 \
+http://192.168.8.1:50101/5000000011000031203/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u32426 \u23454 " tvg-name="\u37329 \u40560 \u32426 \u23454 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u32426 \u23454 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u32426 \u23454 \
+http://192.168.8.1:50101/1000000002000011724/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u21345 \u36890 " tvg-name="\u37329 \u40560 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u21345 \u36890 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u21345 \u36890 \
+http://192.168.8.1:50101/1000000002000016601/FifastbLive/index.m3u8$4M576_\uc0\u26131 \u35270 \u33150 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u21345 \u36890 " tvg-name="\u37329 \u40560 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u21345 \u36890 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u21345 \u36890 \
+http://192.168.8.1:50101/5000000006000040024/FifastbLive/index.m3u8$4M540_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u37329 \u40560 \u21345 \u36890 " tvg-name="\u37329 \u40560 \u21345 \u36890 " tvg-logo="https://json.doube.eu.org/logo/\u37329 \u40560 \u21345 \u36890 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u37329 \u40560 \u21345 \u36890 \
+http://192.168.8.1:50101/6000000003000016791/FifastbLive/index.m3u8$1.8M576_\uc0\u21326 \u25968 \
+#EXTINF:-1 tvg-id="\uc0\u24555 \u20048 \u22402 \u38035 " tvg-name="\u24555 \u20048 \u22402 \u38035 " tvg-logo="https://json.doube.eu.org/logo/\u24555 \u20048 \u22402 \u38035 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u24555 \u20048 \u22402 \u38035 \
+http://192.168.8.1:50101/5000000011000031206/FifastbLive/index.m3u8$6.8M1080_\uc0\u30334 \u35270 \u36890 \
+#EXTINF:-1 tvg-id="\uc0\u24555 \u20048 \u22402 \u38035 " tvg-name="\u24555 \u20048 \u22402 \u38035 " tvg-logo="https://json.doube.eu.org/logo/\u24555 \u20048 \u22402 \u38035 .png" group-title="\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u24555 \u20048 \u22402 \u38035 \
+http://192.168.8.1:50101/2000000002000000067/FifastbLive/index.m3u8$6.8M1080_\uc0\u28246 \u21335 bblive\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u29233 \u26202 \
+http://192.168.8.1:50101/6307875884530512195/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u30005 \u35270 \u21095 \
+http://192.168.8.1:50101/8765482907954673867/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u30005 \u24433 \
+http://192.168.8.1:50101/7884242846753128038/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u37117 \u24066 \
+http://192.168.8.1:50101/4682579636905393407/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u22269 \u38469 \
+http://192.168.8.1:50101/5015828848322021526/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u32463 \u35270 \
+http://192.168.8.1:50101/6306119848317438256/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u32463 \u35270 \
+http://192.168.8.1:50101/7766420291569067385/FifastbLive/index.m3u8\
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="\uc0\u28246 \u21335 \u39057 \u36947 ",\u28246 \u21335 \u23089 \u20048 \
+http://192.168.8.1:50101/6427893650335440392/FifastbLive/index.m3u8}
